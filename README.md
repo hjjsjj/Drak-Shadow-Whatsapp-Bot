@@ -60,10 +60,10 @@
 
   </a>
   <a href="https://github.com/phaticusthiccy">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Neotro%20X&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Shadow%20X&color=purple&style=plastic">
 
   </a>
-  <a href="https://wa.me/94786598862">
+  <a href="https://wa.me/94740203415">
     <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Teenuh%20AX%20-purple&style=plastic">
 
   </a>
