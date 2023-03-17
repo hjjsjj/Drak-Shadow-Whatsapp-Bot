@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Drak_Shadow+MD&font=Fira%20Code&center=true&width=380&height=50">
   
-  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+DARK+SHADOW+𝚆𝙰+𝙱𝙾𝚃+𝚁𝙴𝙿𝙾.;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+MR.HANSAMALA+MR.KAVEEN+MR.THILINA;𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝚂𝙸𝙼𝙿𝙻𝙴+𝙱𝙾𝚃;𝙰𝙽𝙳+𝙸𝙽𝙲𝙻𝚄𝙳𝙴+𝙼𝙾𝚁𝙴+𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂;𝘛𝘏𝘈𝘕𝘒𝘚+𝘍𝘙𝘖+𝘝𝘐𝘚𝘐𝘛𝘐𝘕𝘎+𝘔𝘠+𝘎𝘐𝘛)](https://git.io/typing-svg)
+  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FF00FF&lines=𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+DARK+SHADOW+𝚆𝙰+𝙱𝙾𝚃+𝚁𝙴𝙿𝙾.;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+MR.HANSAMALA+MR.KAVEEN;MR.THILINA;𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝚂𝙸𝙼𝙿𝙻𝙴+𝙱𝙾𝚃;𝙰𝙽𝙳+𝙸𝙽𝙲𝙻𝚄𝙳𝙴+𝙼𝙾𝚁𝙴+𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂;𝘛𝘏𝘈𝘕𝘒𝘚+𝘍𝘙𝘖+𝘝𝘐𝘚𝘐𝘛𝘐𝘕𝘎+𝘔𝘠+𝘎𝘐𝘛)](https://git.io/typing-svg)
 
 </a>
 <p align="center">
