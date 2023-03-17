@@ -126,8 +126,8 @@ Mr.Hansamala & Mr.Kaveen & Mr.Thilina  පිහිටුවීමෙන් ඔ�
 ## 👨‍💻Developer
 
   ***##DRAK SHADOW WHATSAPP BOT***
-
- ***Mr.Hansamala(Drak Shadow😈)***
+  
+<img src="https://readme-typing-svg.herokuapp.com/?lines=***Mr.Hansamala(Drak Shadow😈)***&font=Code&center=true&width=380&height=50">
 <a href="https://Wa.me/+94740203415">
     
    ***Mr.Kaveen(X Hunter😈)***
