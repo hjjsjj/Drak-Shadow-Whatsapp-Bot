@@ -64,7 +64,7 @@
 
   </a>
   <a href="https://wa.me/94740203415">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Teenuh%20AX%20-purple&style=plastic">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Dark%20Shadow%20-purple&style=plastic">
 
   </a>
 </p>
