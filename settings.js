@@ -2,7 +2,7 @@
 ===================================================================================================
 🧞‍♂️〽️ 𝘿𝙍𝘼𝙆 𝙎𝙃𝘼𝘿𝙊𝙒 𝗕𝗼𝘁 𝗠𝗱 💃〽️
                                                   
-                                                  BY Hansamala
+                                                  BY Hansamala,Kaveen,Thilina
 ===================================================================================================
 */
 
@@ -28,7 +28,7 @@ global.AUTO_REACT =  'true'
 //👇 Bad word Auto delete ( you must add bad words )
 global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
-global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ' 
+global.botnma =  'Drak Shadow' 
 //👇 Your name
 global.ownernma =  'HANSAMALA' 
 //👇 Sticker package name
