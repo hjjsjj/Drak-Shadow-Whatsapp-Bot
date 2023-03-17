@@ -86,7 +86,9 @@ Drak Shadow bot ගොඩනැගීමට ඔබට ජංගම දුරක�
 ```
 #### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
-[![Deploy](https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/158640/2020-koyeb-logo-no-background.png)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/dashboard)
+[![Deploy on Koyeb](https://telegra.ph/file/48228bbb836479f7a2863.png)](https://app.koyeb.com/deploy?type=git&repository=&branch=name&name=servicename)
+[![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
 
 
 # 🚀Drak Shadow පහසුකම් ලැයිස්තුව
