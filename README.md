@@ -152,6 +152,10 @@ Mr.Hansamala  පිහිටුවීමෙන් ඔබ මෙම වගකී
 [![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)](https://instergram.com/tharun_003)
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94740203415)
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Devolop+by+Mr.Hansamala&Mr.Kaveen&Mr.Thilinafont=red%22Code&center=true&width=380&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Devolop+by+Mr.Hansamalafont=red%22Code&center=true&width=380&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Devolop+by+Mr.Kaveenfont=red%22Code&center=true&width=380&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Devolop+by+Mr.Thilinafont=red%22Code&center=true&width=380&height=50">
+
+
 
 ## 👽Thanks To
