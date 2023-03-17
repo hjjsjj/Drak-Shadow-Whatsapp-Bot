@@ -42,7 +42,7 @@
     
   </a>
   <a href="https://github.com/xneon2/Hashzi-X/stargazers">
-    <img src="https://img.shields.io/github/stars/xneon2/Hashzi-X?style=social">
+    <img src="https://img.shields.io/github/stars/dark/shadow-X?style=social">
   </a>
 </p>
 
