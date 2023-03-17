@@ -16,8 +16,7 @@
         <a href="https://Wa.me/+94740203415">Drak Shadow Whatsapp </a> |
    </a>    
         
-  <p align="center">
-<a href="https://t.me/Bot_x_whatsapp"><img title="Author" src="https://img.shields.io/badge/BOT NEWS-CHANEL-/JulieMwol?color=blue&style=for-the-badge&logo=telegram"></a>
+
 </p>
    </a>
 </p>
